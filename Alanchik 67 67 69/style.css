@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    background-color: rgb(133, 192, 243);
+    border: 3px solid red;
+    border-radius: 100px;
+    text-align: center;
+}
+.red{
+    color: red;
+    font-weight: 700;
+}
+.green{
+    color: rgb(136, 213, 21);
+    font-weight: 700;
+}
+h3{
+    background-color: rgb(240, 225, 12);
+    text-align: center;
+    color: rgb(11, 172, 11);
+}
+h3{
+    background-color: yellow;
+    text-align: center;
+     color: rgb(11, 172, 11);
+}
+p{
+    color: rgb(2, 111, 2);
+}
+h4{
+background-color: yellow;
+color: rgb(16, 189, 16);
+text-align: center;
+}
+caption{
+    background-color: blue;
+    text-align: ;
+    color: aliceblue;
+}
+.green{
+    background-color: rgb(15, 235, 15);
+    color: aliceblue;
+}
+.red{
+    background-color: red;
+    color: aliceblue;
+}
+table, th, td{
+    background-color: black;
+    color: aliceblue;
+}
+input{
+    background-color: aqua;
+    color: aliceblue;
+}
